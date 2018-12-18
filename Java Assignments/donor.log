@@ -1,0 +1,4 @@
+2018-12-17-main-INFO -com.cg.demo.log4.Log4JPropertyFileDemo:do_something are:1 1.2
+2018-12-17-main-ERROR-com.cg.demo.log4.Log4JPropertyFileDemo:value of x is null
+2018-12-17-main-INFO -com.cg.demo.log4.Log4JPropertyFileDemo:do_something are:1 1.2
+2018-12-17-main-ERROR-com.cg.demo.log4.Log4JPropertyFileDemo:value of x is null
